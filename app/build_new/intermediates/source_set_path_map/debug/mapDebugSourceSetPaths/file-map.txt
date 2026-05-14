@@ -1,0 +1,50 @@
+com.nammamela.app-lifecycle-runtime-compose-release-0 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\01e7f0930c460e5f1bfda16becaa9795\transformed\lifecycle-runtime-compose-release\res
+com.nammamela.app-activity-compose-1.9.2-1 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\11eee86279341ec7c7a650090d391b89\transformed\activity-compose-1.9.2\res
+com.nammamela.app-annotation-experimental-1.4.1-2 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\126bb902df5fc894c8646a14541fd165\transformed\annotation-experimental-1.4.1\res
+com.nammamela.app-core-ktx-1.13.1-3 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\1f57689e9071d23c08c569b143631e6d\transformed\core-ktx-1.13.1\res
+com.nammamela.app-ui-graphics-release-4 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\254508bb0dc95a65f59c18c3f1723dc7\transformed\ui-graphics-release\res
+com.nammamela.app-ui-release-5 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\28c96906068f7d2c6f62c6d933c51a2b\transformed\ui-release\res
+com.nammamela.app-material-release-6 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\29480248f6ce7ae1677f337a573ff188\transformed\material-release\res
+com.nammamela.app-foundation-layout-release-7 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\2bff48550a2a9a46b31b0f1c7f4459a7\transformed\foundation-layout-release\res
+com.nammamela.app-activity-ktx-1.9.2-8 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\2eb549ac49241942e059baa186330aa2\transformed\activity-ktx-1.9.2\res
+com.nammamela.app-activity-1.9.2-9 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\31c963f126f411c55be8140c316ac3e9\transformed\activity-1.9.2\res
+com.nammamela.app-lifecycle-viewmodel-ktx-2.8.6-10 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\38ad72b10b78e9cadbed4133ebd1df34\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.nammamela.app-profileinstaller-1.3.1-11 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\3a6696a4dce7f8fe5e5966643b527ee6\transformed\profileinstaller-1.3.1\res
+com.nammamela.app-ui-geometry-release-12 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\4077c6820f53e4b3a4ba42053577f17d\transformed\ui-geometry-release\res
+com.nammamela.app-lifecycle-livedata-core-2.8.6-13 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\594d27043395a7f24037aa223dddcf61\transformed\lifecycle-livedata-core-2.8.6\res
+com.nammamela.app-material-icons-extended-release-14 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\5a81a0664eddf126f8f667559ca3f92d\transformed\material-icons-extended-release\res
+com.nammamela.app-core-runtime-2.2.0-15 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\65eb7611d85f417fcd70928513d15649\transformed\core-runtime-2.2.0\res
+com.nammamela.app-material-icons-core-release-16 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\67e578efdd85e9f83c97a1e682e30f7b\transformed\material-icons-core-release\res
+com.nammamela.app-material3-release-17 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\78ab9aa4c94d8d845a6fcb4ec8f94697\transformed\material3-release\res
+com.nammamela.app-material-ripple-release-18 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\79d416d9cf90501fde3aab890ebbf140\transformed\material-ripple-release\res
+com.nammamela.app-lifecycle-runtime-release-19 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\7c27f65c7533d6e297042d300ccd2a1b\transformed\lifecycle-runtime-release\res
+com.nammamela.app-runtime-saveable-release-20 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\7c380f74691b61146e484ee70da4a968\transformed\runtime-saveable-release\res
+com.nammamela.app-ui-text-release-21 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\835828ab96bfa40d5ed04d8c0cd1020d\transformed\ui-text-release\res
+com.nammamela.app-graphics-path-1.0.1-22 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\83c285503641d53e6da2fd11e160e1a9\transformed\graphics-path-1.0.1\res
+com.nammamela.app-ui-unit-release-23 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\9267c7bf821494d7b5f240121ac6fa0b\transformed\ui-unit-release\res
+com.nammamela.app-customview-poolingcontainer-1.0.0-24 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\92d0595e6880e6850a12c274118ec2e5\transformed\customview-poolingcontainer-1.0.0\res
+com.nammamela.app-ui-tooling-release-25 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\9918b1d658a2848efdaccab47d3d8193\transformed\ui-tooling-release\res
+com.nammamela.app-lifecycle-process-2.8.6-26 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\a30115b1c6ff23f48180a5785501ea3a\transformed\lifecycle-process-2.8.6\res
+com.nammamela.app-animation-release-27 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\a617b68b74e86203c7c25e861b3f878d\transformed\animation-release\res
+com.nammamela.app-runtime-release-28 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\aaab6d3b5afe6ea86f0bddc2ca72f24e\transformed\runtime-release\res
+com.nammamela.app-emoji2-1.3.0-29 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\b5ba1a8e1497cfef1b09e5dcbd94f2f8\transformed\emoji2-1.3.0\res
+com.nammamela.app-startup-runtime-1.1.1-30 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\b7d51b2b66e63e1fa5035a15e738b467\transformed\startup-runtime-1.1.1\res
+com.nammamela.app-animation-core-release-31 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\b7ffbbd753aae45a6a1d034fdeec18f6\transformed\animation-core-release\res
+com.nammamela.app-ui-test-manifest-1.7.3-32 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\b9f159d5764258a1dc744e9d0cb7eacf\transformed\ui-test-manifest-1.7.3\res
+com.nammamela.app-savedstate-ktx-1.2.1-33 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\bfea2e4e8b140d8c73b24be9e65f5362\transformed\savedstate-ktx-1.2.1\res
+com.nammamela.app-core-1.13.1-34 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\c2808eb7a19b389881913e30abe965a9\transformed\core-1.13.1\res
+com.nammamela.app-lifecycle-viewmodel-savedstate-2.8.6-35 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\c53f286c4e0da55f3d1072af5d58d26c\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.nammamela.app-lifecycle-viewmodel-compose-release-36 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\d15f85dc8fd8c17f76617c9a528327f4\transformed\lifecycle-viewmodel-compose-release\res
+com.nammamela.app-savedstate-1.2.1-37 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\d3fc35a43e2dfd805307d9bfb3ff4ceb\transformed\savedstate-1.2.1\res
+com.nammamela.app-lifecycle-viewmodel-release-38 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\d523917555498de92b2a225bacfa778b\transformed\lifecycle-viewmodel-release\res
+com.nammamela.app-lifecycle-runtime-ktx-release-39 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\d803d3251a976b5d2b5f1a96881c0571\transformed\lifecycle-runtime-ktx-release\res
+com.nammamela.app-ui-tooling-data-release-40 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\ef455dd51a1441e6949cc83e1c14cba4\transformed\ui-tooling-data-release\res
+com.nammamela.app-foundation-release-41 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\f8e690d5b1ffa91224c24d6383aab229\transformed\foundation-release\res
+com.nammamela.app-ui-util-release-42 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\fc23be901817e784f16a66a15774a9c5\transformed\ui-util-release\res
+com.nammamela.app-ui-tooling-preview-release-43 C:\Users\Nisha K\.gradle\caches\8.11.1\transforms\fc6230cc1355d49b812f6569f8db431b\transformed\ui-tooling-preview-release\res
+com.nammamela.app-resValues-44 C:\Users\Nisha K\OneDrive\Desktop\13. Namma mela Project\app\build_new\generated\res\resValues\debug
+com.nammamela.app-packageDebugResources-45 C:\Users\Nisha K\OneDrive\Desktop\13. Namma mela Project\app\build_new\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nammamela.app-packageDebugResources-46 C:\Users\Nisha K\OneDrive\Desktop\13. Namma mela Project\app\build_new\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nammamela.app-debug-47 C:\Users\Nisha K\OneDrive\Desktop\13. Namma mela Project\app\build_new\intermediates\merged_res\debug\mergeDebugResources
+com.nammamela.app-debug-48 C:\Users\Nisha K\OneDrive\Desktop\13. Namma mela Project\app\src\debug\res
+com.nammamela.app-main-49 C:\Users\Nisha K\OneDrive\Desktop\13. Namma mela Project\app\src\main\res
